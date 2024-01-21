@@ -58,7 +58,7 @@ I just want to have a simple config, so I used the default one with some minor c
 
 Some packages I installed which are used by the config
 
-`sudo zypper install i3 i3lock rofi scrot clipit`
+`sudo zypper install i3 i3lock rofi scrot clipit alacritty`
 
 I also added the Hack and Awesome fonts.
 
