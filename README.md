@@ -81,3 +81,7 @@ lock() {
 ```
 
 This is referenced in the i3 config file (see section $mod+g)
+
+#### vimrc 
+
+I used the vimrc file from The Ultimate Vim Configuration here: https://github.com/amix/vimrc
